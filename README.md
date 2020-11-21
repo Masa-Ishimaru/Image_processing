@@ -1,4 +1,4 @@
 # Image_processing
 Simple scripts to perform edge detection and SLIC to reuse for my tasks.
 
-![motorbike](https://user-images.githubusercontent.com/50325966/98454900-47a53400-21ad-11eb-977a-3146c7e4d66a.jpg)
+![motorbike](https://user-images.githubusercontent.com/50325966/99874068-0ccce280-2c28-11eb-9b55-9376469986e4.jpg)
