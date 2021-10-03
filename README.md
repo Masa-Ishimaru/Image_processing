@@ -1,4 +1,4 @@
 # Image_processing
-Simple scripts to perform edge detection and SLIC to reuse for my tasks.
+Simple scripts to perform edge detection, SLIC and crop images for image manipulation.
 
-![motorbike](https://user-images.githubusercontent.com/50325966/99874068-0ccce280-2c28-11eb-9b55-9376469986e4.jpg)
+![20211003_crop_image](https://user-images.githubusercontent.com/50325966/135735649-2dd18c6d-72c5-4ed0-b1c2-c2b71c1bf46e.jpg)
