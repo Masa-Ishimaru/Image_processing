@@ -1,5 +1,5 @@
 # Image_processing
-Creating an illustration like image from photos – copied from my website : https://my-impressive-places.com/
+Creating an illustration like image from photos – transferred from my website : https://my-impressive-places.com/
 ![final_image_3_compress](https://github.com/Masa-Ishimaru/Image_processing/assets/50325966/c8855830-dd0b-4760-b429-de63f9ef0eff)
 
 Simple scripts to perform edge detection, SLIC and crop images for image manipulation.
